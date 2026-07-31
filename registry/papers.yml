@@ -4,3 +4,7 @@
   location: { repo: pollomarzo/fixture-paper-repo, path: . }
   edition: oak-2026
   doi: 10.5072/zenodo.562233
+- id: fixture-2026-ghost
+  slug: ghost
+  location: { repo: pollomarzo/this-repo-does-not-exist-xyz, path: . }
+  edition: oak-2026
