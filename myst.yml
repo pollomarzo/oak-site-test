@@ -23,7 +23,7 @@ project:
     # Bump the tag to take engine updates. It must be remote because it is CODE — a `.mjs`
     # body cannot be stamped into YAML, and vendoring a copy is exactly the copy-rot the
     # engine exists to kill.
-    - https://raw.githubusercontent.com/pollomarzo/whitelabel/v0.0.0-dev.999/plugins/gallery.mjs
+    - https://raw.githubusercontent.com/pollomarzo/whitelabel/v0.0.0-dev.30/plugins/gallery.mjs
   toc:
     - file: pages/index.md
 
